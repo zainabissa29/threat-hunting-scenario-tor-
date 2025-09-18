@@ -3,7 +3,7 @@
 
 ## Steps the "Bad Actor" took Create Logs and IoCs:
 1. Download the TOR browser installer: https://www.torproject.org/download/
-2. Install it silently: ```tor-browser-windows-x86_64-portable-14.0.1.exe /S```
+2. Install it silently: ```tor-browser-windows-x86_64-portable-14.5.7.exe /S```
 3. Opens the TOR browser from the folder on the desktop
 4. Connect to TOR and browse a few sites. For example:
    - Current Dread Forum: ```g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion```
@@ -73,9 +73,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Date**: August 31, 2024
+- **Author Name**: Zainab Issa
+- **Author Contact**: https://www.linkedin.com/in/zainabissa-cybersecurity/
+- **Date**: September 17, 2025
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -92,4 +92,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `September  6, 2024`  | `Zainab Issa`   
