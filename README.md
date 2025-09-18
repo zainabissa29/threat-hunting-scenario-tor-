@@ -74,7 +74,8 @@ DeviceProcessEvents
 | project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine  
 | order by Timestamp desc
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b13707ae-8c2d-4081-a381-2b521d3a0d8f">
+<<img width="1463" height="588" alt="image" src="https://github.com/user-attachments/assets/5e05d3a7-80fd-4721-88e6-b64429f9c933" />
+>
 
 ---
 
@@ -93,7 +94,8 @@ DeviceNetworkEvents
 | project Timestamp, DeviceName, InitiatingProcessAccountName, ActionType, RemoteIP, RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath  
 | order by Timestamp desc
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/87a02b5b-7d12-4f53-9255-f5e750d0e3cb">
+<img width="1452" height="575" alt="image" src="https://github.com/user-attachments/assets/ee274c18-3b79-4703-9be4-113b70ebf3b1" />
+
 
 ---
 
